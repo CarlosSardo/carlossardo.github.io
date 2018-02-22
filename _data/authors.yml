@@ -1,6 +1,6 @@
 default:                                                      # Fallback if nothing is specified
   initial:      csardo                                        # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Jekyll Decent"                               # used to display author name
+  name:         "Carlos Sardo"                               # used to display author name
   cover:        /assets/delft.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/csardo.jpg                           # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
